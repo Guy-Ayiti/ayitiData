@@ -1,6 +1,6 @@
 
 # Given a set of 9 points,
-# determine the number of rectangles that can be formed !!!
+# determine the Number of Rectangles that can be formed !!!
 import numpy as np
 import matplotlib.pyplot as plt
 
